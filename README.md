@@ -7,6 +7,10 @@ Paid assets are just linked with a text file to redirect you to the author's pag
 Everyone can contribute to repos.
 
 
+------------------------------------------------------------------------------
+
 DavaliAssets - 100%
+
 ModelsAssets - 100%
+
 AssetsStash - Only 2019 to 2020
